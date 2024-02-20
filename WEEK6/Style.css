@@ -11,3 +11,24 @@
     overflow: hidden;
     background: linear-gradient(to right, #7a6290, #18232c);
 }
+.top-nav{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    padding: 30px 0 16px;
+    border-bottom: 1cm;
+    background: #d1e2e5;
+}
+.top-nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Geneva, Verdana, sans-serif;
+}
+.button{
+    background-color: #e2c98a;
+    bottom: 0cm;
+}
+
